@@ -684,7 +684,7 @@ a {
     top: 45%;
     transform: translateY(-50%)translateX(-50%);
     z-index: 999999;
-    background: #ffffff;
+    background: #000000;
 }
 #connect-dialog .content-dialog-content, .message-dialog .send-dialog-content{
     width: 400px;
